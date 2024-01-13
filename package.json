@@ -1,0 +1,14 @@
+{
+  "name": "opi.gpio",
+  "module": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "run": "bun run src/index.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
